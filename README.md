@@ -4,7 +4,7 @@
 Esforçado, dedicado e criativo, estou cursando Análise e Desenvolvimento de sistemas na Fatec de Bragança Paulista. Opero como Front-end e estou focado em aprender React, React Native e Typescript
 ##
 
-- 🔭 Foco: React, React native and Typescript;
+- 🔭 Trabalhando com: Java, SQL e GME;
 - 🌱 Estudando: Lógica de Programação and JavaScript;
 
 <div>
