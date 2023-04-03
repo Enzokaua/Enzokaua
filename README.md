@@ -1,11 +1,11 @@
 ## Olá mundo! Meu nome é Enzo Rodrigues e sou estudante de Programação 👋
 
 ### Sobre mim
-Esforçado, dedicado e criativo, estou cursando Análise e Desenvolvimento de sistemas na Fatec de Bragança Paulista. Opero como Front-end e estou focado em aprender React, React Native e Typescript
+Esforçado, dedicado e criativo, sou formado no curso de Análise e Desenvolvimento de sistemas na Fatec de Bragança Paulista. Opero como dev Back-end e estou focado em aprender mais sobre essa linguagem maravilhosa que é o Java e toda a sua estrutura. Tenho grande feição pelas tecnologias Front-end, e pretendo me tornar dev Full Stack algum dia.
 ##
 
-- 🔭 Trabalhando com: Java, SQL e GME;
-- 🌱 Estudando: Lógica de Programação and JavaScript;
+- 🔭 Trabalhando com: Java, Sql and SVN;
+- 🌱 Estudando: JavaInterface, ES6, JavaFx and SpringBoot;
 
 <div>
   <a href="https://github.com/enzokaua">
@@ -18,6 +18,7 @@ Esforçado, dedicado e criativo, estou cursando Análise e Desenvolvimento de si
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg"/>
 </div>
 
 ##
