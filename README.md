@@ -5,7 +5,7 @@ Esforçado, dedicado e criativo, sou formado no curso de Análise e Desenvolvime
 ##
 
 - 🔭 Trabalhando com: Java, Sql, Git, Swagger, Docker e Kafka;
-- 🌱 Estudando: JavaInterface, ES6, JavaFx e SpringBoot;
+- 🌱 Estudando: Reddis, ES6, KafkaDrop, SpringBoot e API;
 
 <div>
   <a href="https://github.com/enzokaua">
