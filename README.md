@@ -7,12 +7,11 @@ Esforçado, dedicado e criativo, sou formado no curso de Análise e Desenvolvime
 - 🔭 Trabalhando com: Java, Sql, Git, Swagger, Docker e Kafka;
 - 🌱 Estudando: Reddis, ES6, KafkaDrop, SpringBoot e API;
 
-<div>
-  <a href="https://github.com/enzokaua">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Enzokaua&show_icons=true&theme=synthwave"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enzokaua&theme=synthwave&layout=compact" />
-  </a>
+<div align="center">
+  
+<img height="165em" src="https://github-readme-streak-stats.herokuapp.com?user=Enzokaua&theme=dracula&date_format=j%2Fn%5B%2FY%5D" alt="Enzokaua" />
 </div>
+
 
 <div style="display: inline-block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
