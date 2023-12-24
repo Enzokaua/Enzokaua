@@ -6,8 +6,7 @@
 Esforçado, dedicado e criativo, sou formado no curso de Análise e Desenvolvimento de sistemas na Fatec de Bragança Paulista. Opero como dev Back-end e estou focado em aprender mais sobre essa linguagem maravilhosa que é o Java e toda a sua estrutura. Tenho grande feição pelas tecnologias Front-end, e pretendo me tornar dev Full Stack algum dia.
 ##
 
-- 🔭 Trabalhando com: Java, Sql, Git, Swagger, Docker e Kafka;
-- 🌱 Estudando: Reddis, ES6, KafkaDrop, SpringBoot e API;
+- 🔭 Trabalhando com: Java, Sql, Git, Swagger, Docker, Kafka, JPA, Kubernets;
 
 <h2 align="left">
  🦄 Linguagens:
