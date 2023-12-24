@@ -9,10 +9,6 @@ Esforçado, dedicado e criativo, sou formado no curso de Análise e Desenvolvime
 - 🔭 Trabalhando com: Java, Sql, Git, Swagger, Docker e Kafka;
 - 🌱 Estudando: Reddis, ES6, KafkaDrop, SpringBoot e API;
 
-<div align="center">
-  
-<img height="165em" src="https://github-readme-streak-stats.herokuapp.com?user=Enzokaua&theme=dracula&date_format=j%2Fn%5B%2FY%5D" alt="Enzokaua" />
-</div>
 <h2 align="left">
  🦄 Linguagens:
 </h2>
