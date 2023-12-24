@@ -77,14 +77,3 @@ Esforçado, dedicado e criativo, sou formado no curso de Análise e Desenvolvime
     />
   </a>
 </p>
-
-<div align="center">
-  <h3><b>Profile Visitor Count</b></h3>
-</div>
-
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/danieldribeiro/count.svg"
-    alt="Ilustração do número de visitantes no perfil"
-  />
-</p>
