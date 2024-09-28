@@ -13,8 +13,7 @@ Esforçado, dedicado e criativo, sou formado no curso de Análise e Desenvolvime
 </h2>
 
 - Java, Kotlin, Ecma6, React, SASS, Tailwind, Styled Components, Kafka, RabbitMQ, Maven, Gradle, Protocol Buffers, Spring/Micronaut, Redis, Change Data Capture (CDC), Debezium, Grafana, Elastic, Prometheus, Jaeger, Lombok, JPA, Docker, Kubernets, Jenkins (CI/CD), SqlServer, PostgreSQL, MySql, MongoDB, Mock, JUnit5, JPA, Java Swing, Hibernate, Hikari, Git, SVN, Tortoise, AWS, Vault Hashicorp, Bootstrap, OAuth2, JWT.
-<br>
-<br>
+  
 <p align="left">
   💌 Sinta-se a vontade para entrar em contato: ⤵️
 </p>
