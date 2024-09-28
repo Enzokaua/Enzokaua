@@ -6,12 +6,13 @@
 Esforçado, dedicado e criativo, sou formado no curso de Análise e Desenvolvimento de sistemas na Fatec de Bragança Paulista. Opero como dev Back-end e estou focado em aprender mais sobre essa linguagem maravilhosa que é o Java e toda a sua estrutura. Tenho grande feição pelas tecnologias Front-end, e pretendo me tornar dev Full Stack algum dia.
 ##
 
-- 🔭 Trabalhando com: Java, Micronaut/Spring, Elastic, Docker, Kafka, Mock, Hibernate, OAuth, Debezium, Maven, Protocol Buffers, Redis, Hikari, Jaeger, Kubernets, SqlServer, PostgreSQL, Lombok;
+- 🔭 Trabalhando com: Java, Micronaut/Spring, Elastic, Docker, Kafka, Mock, Hibernate, OAuth, Debezium, Maven, Protocol Buffers, Redis, Hikari, Jaeger, Kubernets, SqlServer, PostgreSQL, DDD, Microserviços, Saga, UnitTest;
 
 <h2 align="left">
  🦄 Tecnologias com quem já tive interação:
 </h2>
-Java, Kotlin, Ecma6, React, SASS, Tailwind, Styled Components, Kafka, RabbitMQ, Maven, Gradle, Protocol Buffers, Spring/Micronaut, Redis, Change Data Capture (CDC), Debezium, Grafana, Elastic, Prometheus, Jaeger, Lombok, JPA, Docker, Kubernets, Jenkins (CI/CD), SqlServer, PostgreSQL, MySql, MongoDB, Mock, JUnit5, JPA, Java Swing, Hibernate, Hikari, Git, SVN, Tortoise, AWS, Vault Hashicorp, Bootstrap, OAuth2, JWT.
+
+- Java, Kotlin, Ecma6, React, SASS, Tailwind, Styled Components, Kafka, RabbitMQ, Maven, Gradle, Protocol Buffers, Spring/Micronaut, Redis, Change Data Capture (CDC), Debezium, Grafana, Elastic, Prometheus, Jaeger, Lombok, JPA, Docker, Kubernets, Jenkins (CI/CD), SqlServer, PostgreSQL, MySql, MongoDB, Mock, JUnit5, JPA, Java Swing, Hibernate, Hikari, Git, SVN, Tortoise, AWS, Vault Hashicorp, Bootstrap, OAuth2, JWT.
 <br>
 <br>
 <p align="left">
