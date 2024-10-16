@@ -5,14 +5,17 @@
 <p align="left">
 Esforçado, dedicado e criativo, sou formado no curso de Análise e Desenvolvimento de sistemas na Fatec de Bragança Paulista. Opero como dev Back-end e estou focado em aprender mais sobre essa linguagem maravilhosa que é o Java e toda a sua estrutura. Tenho grande feição pelas tecnologias Front-end, e pretendo me tornar dev Full Stack algum dia.
 
-- 🔭 Trabalhando com: Java, Micronaut/Spring, Elastic, Docker, Kafka, Mock, Hibernate, OAuth, Debezium, Maven, Protocol Buffers, Redis, Hikari, Jaeger, Kubernets, SqlServer, PostgreSQL, DDD, Microserviços, Saga, UnitTest;
-
 <h2 align="left">
- 🦄 Tecnologias na qual já trabalhei/desenvolvi:
+ 🦄 Minha stack como desenvolvedor engloba:
 </h2>
 
-- Ecma6, React, SASS, Tailwind, Styled Components, RabbitMQ, Maven, Redis, Change Data Capture (CDC), Debezium, Grafana, Elastic, Prometheus, Jaeger, Lombok, JPA, Docker, Kubernets, Jenkins (CI/CD), SqlServer, PostgreSQL, MySql, MongoDB, Mock, JUnit5, JPA, Java Swing, Hibernate, Hikari, Git, SVN, Tortoise, AWS, Vault Hashicorp, Bootstrap, OAuth2, JWT.
-  
+- DevOps: Docker, kubernets, Jenkins (CI/CD), Vault, Grafana, Prometheus, Elastic, Jaeger, CDC, Debezium.
+- Tecnologias: Kafka, Zookeeper, Redis, OAuth, JWT, Protocol Buffers, RabbitMQ.
+- Linguagens, Frameworks e Libs: Java, Micronaut, Spring, Java Swing, Java FX, JPA, JUnit, Mock.
+- Banco de dados: SqlServer, PostgreSQL, MongoDB.
+- Versionamento: Git, SVN.
+
+Em meus estudos como front-end, cheguei a estudar as seguintes tecnologias: Ecma6, React, SASS, Tailwind, Bootstrap.
 <p align="left">
   💌 Sinta-se a vontade para entrar em contato: ⤵️
 </p>
