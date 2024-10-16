@@ -6,7 +6,7 @@
 Esforçado, dedicado e criativo, sou formado no curso de Análise e Desenvolvimento de sistemas na Fatec de Bragança Paulista. Opero como dev Back-end e estou focado em aprender mais sobre essa linguagem maravilhosa que é o Java e toda a sua estrutura. Tenho grande feição pelas tecnologias Front-end, e pretendo me tornar dev Full Stack algum dia.
 
 <h2 align="left">
- 🦄 Minha stack como desenvolvedor engloba:
+ 🦄 Minha stack como desenvolvedor:
 </h2>
 
 - DevOps: Docker, kubernets, Jenkins (CI/CD), Vault, Grafana, Prometheus, Elastic, Jaeger, CDC, Debezium.
