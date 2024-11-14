@@ -1,4 +1,4 @@
-## Olá mundo! Meu nome é Enzo Rodrigues e sou estudante de Programação 👋
+## Olá mundo! Meu nome é Enzo Rodrigues e sou amante da Programação 👋
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 ### Sobre mim
