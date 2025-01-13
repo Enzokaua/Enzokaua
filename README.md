@@ -10,7 +10,7 @@ Esforçado, dedicado e criativo, sou formado no curso de Análise e Desenvolvime
 </h2>
 
 - DevOps: Docker, kubernets, Jenkins (CI/CD), Vault, Grafana, Prometheus, Elastic, Jaeger, CDC, Debezium.
-- Arquitetura: Microserviços com Saga. 
+- Arquitetura: Microserviços e Modulitos com Saga. 
 - Tecnologias: Kafka, Zookeeper, Redis, JWT, OAuth2, Protocol Buffers, RabbitMQ.
 - Linguagens, Frameworks e Libs: Java, Micronaut, Spring, Java Swing, Java FX, JPA, JUnit, Mockito.
 - Banco de dados: SqlServer, PostgreSQL, MongoDB.
