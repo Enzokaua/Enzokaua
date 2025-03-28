@@ -1,25 +1,29 @@
-## Olá mundo! Meu nome é Enzo Rodrigues e sou amante da Programação 👋
+## 🦄 Desenvolvedor Back-end | Especialista em Arquitetura de Software 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 ### Sobre mim
 <p align="left">
-Esforçado, dedicado e criativo, sou formado no curso de Análise e Desenvolvimento de sistemas na Fatec de Bragança Paulista. Opero como dev Back-end e estou focado em aprender mais sobre essa linguagem maravilhosa que é o Java e toda a sua estrutura. Tenho grande feição pelas tecnologias Front-end, e pretendo me tornar dev Full Stack algum dia.
+Formação Acadêmica:
+• Tecnólogo em Análise e Desenvolvimento de Sistemas - FATEC Bragança Paulista
+• Pós graduado em Arquitetura de Software - Anhanguera (ênfase em padrões de projeto e sistemas distribuídos)
 
-<h2 align="left">
- 🦄 Minha stack como desenvolvedor:
-</h2>
+Profissional com dupla formação técnica, atuando no desenvolvimento de soluções back-end robustas com Java e ecossistema de microserviços. Combino conhecimentos teóricos em arquitetura de software com experiência prática em sistemas de alta complexidade.
 
-- DevOps: Docker, kubernets, Jenkins (CI/CD), Vault, Grafana, Prometheus, Elastic, Jaeger, CDC, Debezium.
-- Arquitetura: Microserviços e Modulitos com Saga. 
-- Tecnologias: Kafka, Zookeeper, Redis, JWT, OAuth2, Protocol Buffers, RabbitMQ.
-- Linguagens, Frameworks e Libs: Java, Micronaut, Spring, Java Swing, Java FX, JPA, JUnit, Mockito.
-- Banco de dados: SqlServer, PostgreSQL, MongoDB.
-- Boas práticas: Pattern, DDD.
-- Versionamento e gerenciamento: Git, SVN, Maven, Gradle.
+### Sobre mim
+Diferenciais Técnicos:
+▸ Domínio em padrões arquiteturais (Microserviços, Modulith, Saga, DDD)
+▸ Visão estratégica para tomada de decisões técnicas
+▸ Capacidade de traduzir requisitos em estruturas escaláveis
 
-Em meus estudos como front-end, cheguei a estudar as seguintes tecnologias: Ecma6, React, SASS, Tailwind, Bootstrap.
+### Stack Principal:
+Linguagens & Frameworks: Java, Micronaut, Spring (Boot, Security, Data), JPA
+Arquitetura: Clean Architecture, Event-Driven, CQRS
+DevOps: Docker, Kubernetes, Jenkins (CI/CD), Observabilidade (Grafana/Prometheus)
+Data: PostgreSQL, MongoDB, Kafka, Debezium (CDC)
+Em contínua atualização, com plano de evolução para arquitetura de sistemas distribuídos e liderança técnica.
+
 <p align="left">
-  💌 Sinta-se a vontade para entrar em contato: ⤵️
+  Sinta-se a vontade para entrar em contato: ⤵️
 </p>
 
 <a href="https://www.linkedin.com/in/enzo-rodrigues-166875199/" title="LinkedIn" target="_blank">
