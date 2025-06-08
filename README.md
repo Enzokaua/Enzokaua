@@ -1,4 +1,4 @@
-## 🦄 Desenvolvedor Back-end | Especialista em Arquitetura de Software 
+## 🦄 Desenvolvedor Back-end | Pós Graduado em Arquitetura de Software 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 ### Sobre mim
@@ -9,9 +9,9 @@ Formação Acadêmica:
 
 Profissional com dupla formação técnica, atuando no desenvolvimento de soluções back-end robustas com Java e ecossistema de microserviços. Combino conhecimentos teóricos em arquitetura de software com experiência prática em sistemas de alta complexidade.
 
-### Sobre mim
+### Detalhes técnicos
 Diferenciais Técnicos:
-▸ Domínio em padrões arquiteturais (Microserviços, Modulith, Saga, DDD)
+▸ Domínio e conhecimento em padrões arquiteturais de mercado (Microserviços, Modulith, Saga, DDD)
 ▸ Visão estratégica para tomada de decisões técnicas
 ▸ Capacidade de traduzir requisitos em estruturas escaláveis
 
@@ -22,11 +22,18 @@ DevOps: Docker, Kubernetes, Jenkins (CI/CD), Observabilidade (Grafana/Prometheus
 Data: PostgreSQL, MongoDB, Kafka, Debezium (CDC)
 Em contínua atualização, com plano de evolução para arquitetura de sistemas distribuídos e liderança técnica.
 
-<p align="left">
-  Sinta-se a vontade para entrar em contato: ⤵️
-</p>
-
-<a href="https://www.linkedin.com/in/enzo-rodrigues-166875199/" title="LinkedIn" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <br>
+    <p align="left">
+  Sinta-se a vontade para entrar em contato:
+  <a href="https://www.linkedin.com/in/enzo-rodrigues-166875199/" title="LinkedIn" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    </p>
+<br>
+<br>
+  <div align="left" >
+<a href="https://skillicons.dev"   >
+  <img src="https://skillicons.dev/icons?i=git,javascript,java,spring,kafka,redis,jenkins,postgresql,grafana,prometheus,kubernetes,react,terraform,tailwind,sass,go,maven,mongodb" />
+</a>
+  <br/>
+  </div>
 <br>
