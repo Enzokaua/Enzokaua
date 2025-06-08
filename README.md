@@ -24,7 +24,7 @@ Em contínua atualização, com plano de evolução para arquitetura de sistemas
 
 <br>
     <p align="left">
-  Sinta-se a vontade para entrar em contato:
+  Sinta-se a vontade para entrar em contato:  
   <a href="https://www.linkedin.com/in/enzo-rodrigues-166875199/" title="LinkedIn" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     </p>
