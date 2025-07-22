@@ -29,6 +29,7 @@ Em contínua atualização, com plano de evolução para arquitetura de sistemas
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     </p>
 <br>
+
 <br>
 <div align="center">
   <img src="https://cdn.simpleicons.org/spring/6DB33F" height="60" alt="spring logo"  />
@@ -65,4 +66,12 @@ Em contínua atualização, com plano de evolução para arquitetura de sistemas
   <img width="12" />
   <img src="https://cdn.simpleicons.org/jenkins/D24939" height="60" alt="jenkins logo"  />
 </div>
+
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Enzokaua/Enzokaua/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Enzokaua/Enzokaua/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Enzokaua/Enzokaua/output/pacman-contribution-graph.svg">
+</picture>
 <br>
