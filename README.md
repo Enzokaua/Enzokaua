@@ -1,5 +1,4 @@
 ## 🦄 Desenvolvedor Back-end | Pós Graduado em Arquitetura de Software 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 ### Sobre mim
 <p align="left">
